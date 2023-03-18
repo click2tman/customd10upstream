@@ -49,7 +49,8 @@
         "drupal/twitter_block": "^3.0",
         "drupal/views_infinite_scroll": "^2.0",
         "drupal/webform": "^6.2@beta",
-        "drupal/xmlsitemap": "^1.4"
+        "drupal/xmlsitemap": "^1.4",
+        "wikimedia/composer-merge-plugin": "^2.0"
     },
     "conflict": {
         "drupal/drupal": "*"
